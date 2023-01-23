@@ -1,5 +1,8 @@
-# Instructions
-A training to practice finding data, munging it, and analyzing it in a spreadsheet program.
+# Spreadsheet Analysis
+
+## Overview
+
+The training exercise to practice finding data, munging it, and analyzing it in a spreadsheet program.
 
 The goals of this training are to:
 
